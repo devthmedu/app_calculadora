@@ -1,5 +1,8 @@
 # Calculadora em React Native
 
+![media (1)](https://github.com/user-attachments/assets/725e2386-0e11-434a-9264-0c5a5f7779a9)
+
+
 Uma calculadora simples desenvolvida em React Native, com funcionalidades básicas de adição, subtração, multiplicação e divisão. Esta aplicação apresenta uma interface amigável e animações para uma melhor experiência do usuário.
 
 ## Funcionalidades
